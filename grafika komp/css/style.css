@@ -1,0 +1,33 @@
+body {
+	background-color: #000;
+	margin: 0px;
+	text-align: center;
+	overflow: hidden;
+}
+h1 {
+	font-family: 'Lobster', cursive;
+	font-size: 40px;
+	color: #fff;
+	text-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+	position: absolute;
+	width: 100%;
+}
+.guidat-controllers {
+	height: 159px;
+}
+#info {
+	color: #ddd;
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+	position: absolute;
+	bottom: 20px;
+	width: 100%;
+	padding: 5px;
+	z-index: 100;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+a {
+    color: #fff;
+	text-decoration:none;
+}
